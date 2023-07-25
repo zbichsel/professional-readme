@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const generateMarkdown = require('./assets/generateMarkdown');
+const generateMarkdown = require('./generateMarkdown');
 const fs = require('fs');
 
 function questions() {

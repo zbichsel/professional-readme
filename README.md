@@ -29,10 +29,6 @@ To generate a professional README, please run the following command in your inte
 
 Answer the following prompt questions and your README will be updated with your input and selections.
 
-![Screenshot of prompt questions]
-
-[Recording of Application]
-
   ## License
 
 This project is licensed under MIT. Please check LICENSE document in repository for more information.
