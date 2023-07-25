@@ -15,3 +15,5 @@ function generateMarkdown(data) {
     ## Questions\n
     If you have any questions, please reach out to me at [Github](https://github.com/${data.username}) or via email at [${data.email}](${data.email}).`;
 }
+
+module.exports = generateMarkdown;
