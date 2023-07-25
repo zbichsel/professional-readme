@@ -41,6 +41,11 @@ If you would like to contribute to this project, please open a new issue or subm
 
 There are currently no test for this application
 
+  ## Screen Shot
+
+![Screen Shot](./assets/README.png)
+![Terminal](./assets/questionsreadme.png)
+
   ## Questions
 
   If you have any questions, feel free to reach me at [GitHub](https://github.com/zbichsel) or via email at [biksel09@gmail.com](biksel09@gmail.com).
